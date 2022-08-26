@@ -24,7 +24,7 @@ namespace Semana4Ej1
             string[] paises = new string[5] { "El Salvador", "México", "Chile", "Colombia", "Vemezuela" };
             foreach (string pais in paises)
             {
-                Console.WriteLine(pais);
+                Console.WriteLine(pais)
             }
         }
     }
